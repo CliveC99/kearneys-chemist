@@ -1,5 +1,7 @@
 # Kearney's Chemist
 
+![Kearney's Chemist across desktop, laptop, tablet and mobile](assets/kearneys-hero.png)
+
 ### Custom e-commerce for an independent Irish pharmacy.
 
 Kearney's Chemist is a custom e-commerce platform developed for an independent pharmacy in Ireland. The platform provides a complete online shopping experience while supporting the pharmacy's day-to-day product, order, payment and fulfilment workflows.
@@ -22,6 +24,20 @@ Kearney's Chemist is a custom e-commerce platform developed for an independent p
 - **Google Merchant Integration** — automated product feed supporting product discovery through Google.
 - **SEO & Structured Data** — search-friendly product pages, metadata, canonical URLs and structured data.
 
+## 🛍️ Online Storefront
+
+![Kearney's Chemist On Sale page](assets/on-sale.png)
+
+The responsive storefront allows customers to browse products, discover special offers and purchase products online. Product cards surface pricing, discounts and key product information while providing a clear route into the purchasing flow.
+
+## 🛒 Shopping & Checkout
+
+![Kearney's Chemist shopping bag](assets/shopping-bag.jpeg)
+
+The custom shopping flow handles basket management, product quantities, order totals, delivery rules and secure checkout.
+
+Customers can choose between delivery and Click & Collect, with fulfilment rules integrated directly into the ordering experience.
+
 ## 🛠️ Technology
 
 Kearney's Chemist is built with:
@@ -41,6 +57,14 @@ The application is deployed on a Linux VPS using Nginx and Gunicorn, with separa
 - Built an automated Google Merchant product feed that reflects the live catalogue.
 - Implemented SEO improvements including structured data, canonical URLs, sitemaps and social metadata.
 - Maintained separate staging and production environments for safer deployment and testing.
+
+## 📦 Product Management
+
+![Kearney's Chemist product management](assets/product-management.jpeg)
+
+Custom administrative tools support day-to-day catalogue management, including product information, pricing, stock, images, delivery settings and other product data.
+
+The administration functionality was developed around the requirements of the pharmacy, allowing the online catalogue to be managed without working directly with the underlying application or database.
 
 ## 👨‍💻 My Role
 
